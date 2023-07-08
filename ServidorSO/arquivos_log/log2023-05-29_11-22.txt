@@ -1,0 +1,181 @@
+[2023-05-29 11:22:15] Servidor iniciado. Aguardando conexões...
+[2023-05-29 11:22:20] [LINHA 1] GET / HTTP/1.1
+[2023-05-29 11:22:20] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:22:20] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:22:20] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:22:20] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:22:20] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:22:20] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-05-29 11:22:20] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:22:20] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-05-29 11:22:20] [LINHA 10] Sec-Fetch-Site: none
+[2023-05-29 11:22:20] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-05-29 11:22:20] [LINHA 12] Sec-Fetch-User: ?1
+[2023-05-29 11:22:20] [LINHA 13] Sec-Fetch-Dest: document
+[2023-05-29 11:22:20] [LINHA 14] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:22:20] [LINHA 15] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:22:20] [LINHA 16] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:22:20] [LINHA 17] 
+[2023-05-29 11:22:20] [RECURSO] /
+[2023-05-29 11:22:21] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-05-29 11:22:21] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:22:21] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:22:21] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:22:21] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:22:21] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:22:21] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:22:21] [LINHA 8] Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-05-29 11:22:21] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-05-29 11:22:21] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-05-29 11:22:21] [LINHA 11] Sec-Fetch-Dest: image
+[2023-05-29 11:22:21] [LINHA 12] Referer: http://localhost:8080/
+[2023-05-29 11:22:21] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:22:21] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:22:21] [LINHA 15] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:22:21] [LINHA 16] 
+[2023-05-29 11:22:21] [RECURSO] /favicon.ico
+[2023-05-29 11:22:22] [LINHA 1] GET /reserva.html?id=3 HTTP/1.1
+[2023-05-29 11:22:22] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:22:22] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:22:22] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:22:22] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:22:22] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:22:22] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-05-29 11:22:22] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:22:22] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-05-29 11:22:22] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-05-29 11:22:22] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-05-29 11:22:22] [LINHA 12] Sec-Fetch-User: ?1
+[2023-05-29 11:22:22] [LINHA 13] Sec-Fetch-Dest: document
+[2023-05-29 11:22:22] [LINHA 14] Referer: http://localhost:8080/
+[2023-05-29 11:22:22] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:22:22] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:22:22] [LINHA 17] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:22:22] [LINHA 18] 
+[2023-05-29 11:22:22] [RECURSO] /reserva.html?id=3
+[2023-05-29 11:22:23] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-05-29 11:22:23] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:22:23] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:22:23] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:22:23] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:22:23] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:22:23] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:22:23] [LINHA 8] Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-05-29 11:22:23] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-05-29 11:22:23] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-05-29 11:22:23] [LINHA 11] Sec-Fetch-Dest: image
+[2023-05-29 11:22:23] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=3
+[2023-05-29 11:22:23] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:22:23] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:22:23] [LINHA 15] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:22:23] [LINHA 16] 
+[2023-05-29 11:22:23] [RECURSO] /favicon.ico
+[2023-05-29 11:22:29] [LINHA 1] GET /index.html?dataReserva=29-5-2023+11X22&id=3&reserva=inacio+simoes HTTP/1.1
+[2023-05-29 11:22:29] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:22:29] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:22:29] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:22:29] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:22:29] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:22:29] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-05-29 11:22:29] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:22:29] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-05-29 11:22:29] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-05-29 11:22:29] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-05-29 11:22:29] [LINHA 12] Sec-Fetch-User: ?1
+[2023-05-29 11:22:29] [LINHA 13] Sec-Fetch-Dest: document
+[2023-05-29 11:22:29] [LINHA 14] Referer: http://localhost:8080/reserva.html?id=3
+[2023-05-29 11:22:29] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:22:29] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:22:29] [LINHA 17] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:22:29] [LINHA 18] 
+[2023-05-29 11:22:29] [RECURSO] /index.html?dataReserva=29-5-2023+11X22&id=3&reserva=inacio+simoes
+[2023-05-29 11:22:30] [RESERVADO UM LUGAR] Lugar{id=3, reserva='inacio+simoes', dataReserva='29-5-2023 11:22', ipReserva='/[0:0:0:0:0:0:0:1]:54500'}
+[2023-05-29 11:22:30] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-05-29 11:22:30] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:22:30] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:22:30] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:22:30] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:22:30] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:22:30] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:22:30] [LINHA 8] Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-05-29 11:22:30] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-05-29 11:22:30] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-05-29 11:22:30] [LINHA 11] Sec-Fetch-Dest: image
+[2023-05-29 11:22:30] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=29-5-2023+11X22&id=3&reserva=inacio+simoes
+[2023-05-29 11:22:30] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:22:30] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:22:30] [LINHA 15] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:22:30] [LINHA 16] 
+[2023-05-29 11:22:30] [RECURSO] /favicon.ico
+[2023-05-29 11:23:40] [LINHA 1] GET /reserva.html?id=9 HTTP/1.1
+[2023-05-29 11:23:40] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:23:40] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:23:40] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:23:40] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:23:40] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:23:40] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-05-29 11:23:40] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:23:40] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-05-29 11:23:40] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-05-29 11:23:40] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-05-29 11:23:40] [LINHA 12] Sec-Fetch-User: ?1
+[2023-05-29 11:23:40] [LINHA 13] Sec-Fetch-Dest: document
+[2023-05-29 11:23:40] [LINHA 14] Referer: http://localhost:8080/index.html?dataReserva=29-5-2023+11X22&id=3&reserva=inacio+simoes
+[2023-05-29 11:23:40] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:23:40] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:23:40] [LINHA 17] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:23:40] [LINHA 18] 
+[2023-05-29 11:23:40] [RECURSO] /reserva.html?id=9
+[2023-05-29 11:23:41] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-05-29 11:23:41] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:23:41] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:23:41] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:23:41] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:23:41] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:23:41] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:23:41] [LINHA 8] Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-05-29 11:23:41] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-05-29 11:23:41] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-05-29 11:23:41] [LINHA 11] Sec-Fetch-Dest: image
+[2023-05-29 11:23:41] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=9
+[2023-05-29 11:23:41] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:23:41] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:23:41] [LINHA 15] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:23:41] [LINHA 16] 
+[2023-05-29 11:23:41] [RECURSO] /favicon.ico
+[2023-05-29 11:23:43] [LINHA 1] GET /index.html HTTP/1.1
+[2023-05-29 11:23:43] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:23:43] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:23:43] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:23:43] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:23:43] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:23:43] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-05-29 11:23:43] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:23:43] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-05-29 11:23:43] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-05-29 11:23:43] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-05-29 11:23:43] [LINHA 12] Sec-Fetch-User: ?1
+[2023-05-29 11:23:43] [LINHA 13] Sec-Fetch-Dest: document
+[2023-05-29 11:23:43] [LINHA 14] Referer: http://localhost:8080/reserva.html?id=9
+[2023-05-29 11:23:43] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:23:43] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:23:43] [LINHA 17] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:23:43] [LINHA 18] 
+[2023-05-29 11:23:43] [RECURSO] /index.html
+[2023-05-29 11:23:43] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-05-29 11:23:43] [LINHA 2] Host: localhost:8080
+[2023-05-29 11:23:43] [LINHA 3] Connection: keep-alive
+[2023-05-29 11:23:43] [LINHA 4] sec-ch-ua: "Microsoft Edge";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-05-29 11:23:43] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-05-29 11:23:43] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+[2023-05-29 11:23:43] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-05-29 11:23:43] [LINHA 8] Accept: image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-05-29 11:23:43] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-05-29 11:23:43] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-05-29 11:23:43] [LINHA 11] Sec-Fetch-Dest: image
+[2023-05-29 11:23:43] [LINHA 12] Referer: http://localhost:8080/index.html
+[2023-05-29 11:23:43] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-05-29 11:23:43] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+[2023-05-29 11:23:43] [LINHA 15] Cookie: PHPSESSID=uo9qhi7spjc8c1s9phalvmfotr
+[2023-05-29 11:23:43] [LINHA 16] 
+[2023-05-29 11:23:43] [RECURSO] /favicon.ico
