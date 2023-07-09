@@ -1,0 +1,548 @@
+[2023-06-01 13:42:17] Servidor iniciado. Aguardando conexões...
+[2023-06-01 13:42:21] [LINHA 1] GET /pooWeb1/index.jsp HTTP/1.1
+[2023-06-01 13:42:21] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:21] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:21] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:21] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:21] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:21] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 13:42:21] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:21] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 13:42:21] [LINHA 10] Sec-Fetch-Site: none
+[2023-06-01 13:42:21] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 13:42:21] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 13:42:21] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 13:42:21] [LINHA 14] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:21] [LINHA 15] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:21] [LINHA 16] 
+[2023-06-01 13:42:21] [RECURSO] /pooWeb1/index.jsp
+[2023-06-01 13:42:21] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 13:42:21] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:21] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:21] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:21] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:21] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:21] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:21] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 13:42:21] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 13:42:21] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 13:42:21] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 13:42:21] [LINHA 12] Referer: http://localhost:8080/pooWeb1/index.jsp
+[2023-06-01 13:42:21] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:21] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:21] [LINHA 15] 
+[2023-06-01 13:42:21] [RECURSO] /favicon.ico
+[2023-06-01 13:42:26] [LINHA 1] GET / HTTP/1.1
+[2023-06-01 13:42:26] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:26] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:26] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:26] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:26] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:26] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 13:42:26] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:26] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 13:42:26] [LINHA 10] Sec-Fetch-Site: none
+[2023-06-01 13:42:26] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 13:42:26] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 13:42:26] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 13:42:26] [LINHA 14] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:26] [LINHA 15] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:26] [LINHA 16] 
+[2023-06-01 13:42:26] [RECURSO] /
+[2023-06-01 13:42:26] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 13:42:26] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:26] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:26] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:26] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:26] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:26] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:26] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 13:42:26] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 13:42:26] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 13:42:26] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 13:42:26] [LINHA 12] Referer: http://localhost:8080/
+[2023-06-01 13:42:26] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:26] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:26] [LINHA 15] 
+[2023-06-01 13:42:26] [RECURSO] /favicon.ico
+[2023-06-01 13:42:31] [LINHA 1] GET /reserva.html?id=1 HTTP/1.1
+[2023-06-01 13:42:31] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:31] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:31] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:31] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:31] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:31] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 13:42:31] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:31] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 13:42:31] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 13:42:31] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 13:42:31] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 13:42:31] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 13:42:31] [LINHA 14] Referer: http://localhost:8080/
+[2023-06-01 13:42:31] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:31] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:31] [LINHA 17] 
+[2023-06-01 13:42:31] [RECURSO] /reserva.html?id=1
+[2023-06-01 13:42:31] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 13:42:31] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:31] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:31] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:31] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:31] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:31] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:31] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 13:42:31] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 13:42:31] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 13:42:31] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 13:42:31] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=1
+[2023-06-01 13:42:31] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:31] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:31] [LINHA 15] 
+[2023-06-01 13:42:31] [RECURSO] /favicon.ico
+[2023-06-01 13:42:38] [LINHA 1] GET /index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano HTTP/1.1
+[2023-06-01 13:42:38] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:38] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:38] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:38] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:38] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:38] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 13:42:38] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:38] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 13:42:38] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 13:42:38] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 13:42:38] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 13:42:38] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 13:42:38] [LINHA 14] Referer: http://localhost:8080/reserva.html?id=1
+[2023-06-01 13:42:38] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:38] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:38] [LINHA 17] 
+[2023-06-01 13:42:38] [RECURSO] /index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 13:42:38] [RESERVADO UM LUGAR] Lugar{id=1, reserva='fulano', dataReserva='1-6-2023 13:42', ipReserva='/[0:0:0:0:0:0:0:1]:52139'}
+[2023-06-01 13:42:38] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 13:42:38] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:42:38] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:42:38] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:42:38] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:42:38] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:42:38] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:42:38] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 13:42:38] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 13:42:38] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 13:42:38] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 13:42:38] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 13:42:38] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:42:38] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:42:38] [LINHA 15] 
+[2023-06-01 13:42:38] [RECURSO] /favicon.ico
+[2023-06-01 13:51:47] [LINHA 1] GET /reserva.html?id=2 HTTP/1.1
+[2023-06-01 13:51:47] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:51:47] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:51:47] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:51:47] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:51:47] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:51:47] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 13:51:47] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:51:47] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 13:51:47] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 13:51:47] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 13:51:47] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 13:51:47] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 13:51:47] [LINHA 14] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 13:51:47] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:51:47] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:51:47] [LINHA 17] 
+[2023-06-01 13:51:47] [RECURSO] /reserva.html?id=2
+[2023-06-01 13:51:47] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 13:51:47] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:51:47] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:51:47] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:51:47] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:51:47] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:51:47] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:51:47] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 13:51:47] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 13:51:47] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 13:51:47] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 13:51:47] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 13:51:47] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:51:47] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:51:47] [LINHA 15] 
+[2023-06-01 13:51:47] [RECURSO] /favicon.ico
+[2023-06-01 13:51:49] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 13:51:49] [LINHA 2] Host: localhost:8080
+[2023-06-01 13:51:49] [LINHA 3] Connection: keep-alive
+[2023-06-01 13:51:49] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 13:51:49] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 13:51:49] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 13:51:49] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 13:51:49] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 13:51:49] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 13:51:49] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 13:51:49] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 13:51:49] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 13:51:49] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 13:51:49] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 13:51:49] [LINHA 15] 
+[2023-06-01 13:51:49] [RECURSO] /favicon.ico
+[2023-06-01 14:22:14] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:14] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:14] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:14] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:14] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:14] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:14] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:14] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:14] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:14] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:14] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:14] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:14] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:14] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:14] [LINHA 15] 
+[2023-06-01 14:22:14] [RECURSO] /favicon.ico
+[2023-06-01 14:22:16] [LINHA 1] GET /reserva.html?id=2 HTTP/1.1
+[2023-06-01 14:22:16] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:16] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:16] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:16] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:16] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:16] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:16] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:16] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:16] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:16] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:16] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 14:22:16] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 14:22:16] [LINHA 14] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:16] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:16] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:16] [LINHA 17] 
+[2023-06-01 14:22:16] [RECURSO] /reserva.html?id=2
+[2023-06-01 14:22:16] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:16] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:16] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:16] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:16] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:16] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:16] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:16] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:16] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:16] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:16] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:16] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:16] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:16] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:16] [LINHA 15] 
+[2023-06-01 14:22:16] [RECURSO] /favicon.ico
+[2023-06-01 14:22:18] [LINHA 1] GET /reserva.html?id=3 HTTP/1.1
+[2023-06-01 14:22:18] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:18] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:18] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:18] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:18] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:18] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:18] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:18] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:18] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:18] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:18] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 14:22:18] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 14:22:18] [LINHA 14] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:18] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:18] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:18] [LINHA 17] 
+[2023-06-01 14:22:18] [RECURSO] /reserva.html?id=3
+[2023-06-01 14:22:18] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:18] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:18] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:18] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:18] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:18] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:18] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:18] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:18] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:18] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:18] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:18] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=3
+[2023-06-01 14:22:18] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:18] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:18] [LINHA 15] 
+[2023-06-01 14:22:18] [RECURSO] /favicon.ico
+[2023-06-01 14:22:22] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:22] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:22] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:22] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:22] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:22] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:22] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:22] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:22] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:22] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:22] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:22] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:22] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:22] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:22] [LINHA 15] 
+[2023-06-01 14:22:22] [RECURSO] /favicon.ico
+[2023-06-01 14:22:24] [LINHA 1] GET /reserva.html?id=2 HTTP/1.1
+[2023-06-01 14:22:24] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:24] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:24] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:24] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:24] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:24] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:24] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:24] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:24] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:24] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:24] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 14:22:24] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 14:22:24] [LINHA 14] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:24] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:24] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:24] [LINHA 17] 
+[2023-06-01 14:22:24] [RECURSO] /reserva.html?id=2
+[2023-06-01 14:22:24] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:24] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:24] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:24] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:24] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:24] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:24] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:24] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:24] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:24] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:24] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:24] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:24] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:24] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:24] [LINHA 15] 
+[2023-06-01 14:22:24] [RECURSO] /favicon.ico
+[2023-06-01 14:22:33] [LINHA 1] GET /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=sei+la HTTP/1.1
+[2023-06-01 14:22:33] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:33] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:33] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:33] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:33] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:33] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:33] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:33] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:33] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:33] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:33] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 14:22:33] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 14:22:33] [LINHA 14] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:33] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:33] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:33] [LINHA 17] 
+[2023-06-01 14:22:33] [RECURSO] /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=sei+la
+[2023-06-01 14:22:33] [RESERVADO UM LUGAR] Lugar{id=2, reserva='sei+la', dataReserva='1-6-2023 14:22', ipReserva='/[0:0:0:0:0:0:0:1]:52745'}
+[2023-06-01 14:22:33] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:33] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:33] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:33] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:33] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:33] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:33] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:33] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:33] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:33] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:33] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:33] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+14X22&id=2&reserva=sei+la
+[2023-06-01 14:22:33] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:33] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:33] [LINHA 15] 
+[2023-06-01 14:22:33] [RECURSO] /favicon.ico
+[2023-06-01 14:22:35] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:35] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:35] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:35] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:35] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:35] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:35] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:35] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:35] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:35] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:35] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:35] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:35] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:35] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:35] [LINHA 15] 
+[2023-06-01 14:22:35] [RECURSO] /favicon.ico
+[2023-06-01 14:22:36] [LINHA 1] GET /reserva.html?id=2 HTTP/1.1
+[2023-06-01 14:22:36] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:36] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:36] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:36] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:36] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:36] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:36] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:36] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:36] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:36] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:36] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 14:22:36] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 14:22:36] [LINHA 14] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+13X42&id=1&reserva=fulano
+[2023-06-01 14:22:36] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:36] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:36] [LINHA 17] 
+[2023-06-01 14:22:36] [RECURSO] /reserva.html?id=2
+[2023-06-01 14:22:36] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:36] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:36] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:36] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:36] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:36] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:36] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:36] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:36] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:36] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:36] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:36] [LINHA 12] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:36] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:36] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:36] [LINHA 15] 
+[2023-06-01 14:22:36] [RECURSO] /favicon.ico
+[2023-06-01 14:22:41] [LINHA 1] GET /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei HTTP/1.1
+[2023-06-01 14:22:41] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:41] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:41] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:41] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:41] [LINHA 6] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:41] [LINHA 7] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:41] [LINHA 8] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:41] [LINHA 9] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:41] [LINHA 10] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:41] [LINHA 11] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:41] [LINHA 12] Sec-Fetch-User: ?1
+[2023-06-01 14:22:41] [LINHA 13] Sec-Fetch-Dest: document
+[2023-06-01 14:22:41] [LINHA 14] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:41] [LINHA 15] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:41] [LINHA 16] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:41] [LINHA 17] 
+[2023-06-01 14:22:41] [RECURSO] /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei
+[2023-06-01 14:22:41] [LUGAR JÁ ESTÁ RESERVADO]  Lugar{id=2, reserva='sei+la', dataReserva='1-6-2023 14:22', ipReserva='/[0:0:0:0:0:0:0:1]:52745'}
+[2023-06-01 14:22:41] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:41] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:41] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:41] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:41] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:41] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:41] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:41] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:41] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:41] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:41] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:41] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei
+[2023-06-01 14:22:41] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:41] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:41] [LINHA 15] 
+[2023-06-01 14:22:41] [RECURSO] /favicon.ico
+[2023-06-01 14:22:45] [LINHA 1] GET /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=sei+la HTTP/1.1
+[2023-06-01 14:22:45] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:45] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:45] [LINHA 4] Cache-Control: max-age=0
+[2023-06-01 14:22:45] [LINHA 5] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:45] [LINHA 6] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:45] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:45] [LINHA 8] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:45] [LINHA 9] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:45] [LINHA 10] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:45] [LINHA 11] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:45] [LINHA 12] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:45] [LINHA 13] Sec-Fetch-User: ?1
+[2023-06-01 14:22:45] [LINHA 14] Sec-Fetch-Dest: document
+[2023-06-01 14:22:45] [LINHA 15] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:45] [LINHA 16] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:45] [LINHA 17] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:45] [LINHA 18] 
+[2023-06-01 14:22:45] [RECURSO] /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=sei+la
+[2023-06-01 14:22:45] [LUGAR JÁ ESTÁ RESERVADO]  Lugar{id=2, reserva='sei+la', dataReserva='1-6-2023 14:22', ipReserva='/[0:0:0:0:0:0:0:1]:52745'}
+[2023-06-01 14:22:45] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:45] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:45] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:45] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:45] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:45] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:45] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:45] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:45] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:45] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:45] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:45] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+14X22&id=2&reserva=sei+la
+[2023-06-01 14:22:45] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:45] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:45] [LINHA 15] 
+[2023-06-01 14:22:45] [RECURSO] /favicon.ico
+[2023-06-01 14:22:49] [LINHA 1] GET /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei HTTP/1.1
+[2023-06-01 14:22:49] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:49] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:49] [LINHA 4] Cache-Control: max-age=0
+[2023-06-01 14:22:49] [LINHA 5] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:49] [LINHA 6] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:49] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:49] [LINHA 8] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:49] [LINHA 9] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:49] [LINHA 10] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:49] [LINHA 11] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:49] [LINHA 12] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:49] [LINHA 13] Sec-Fetch-User: ?1
+[2023-06-01 14:22:49] [LINHA 14] Sec-Fetch-Dest: document
+[2023-06-01 14:22:49] [LINHA 15] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:49] [LINHA 16] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:49] [LINHA 17] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:49] [LINHA 18] 
+[2023-06-01 14:22:49] [RECURSO] /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei
+[2023-06-01 14:22:49] [LUGAR JÁ ESTÁ RESERVADO]  Lugar{id=2, reserva='sei+la', dataReserva='1-6-2023 14:22', ipReserva='/[0:0:0:0:0:0:0:1]:52745'}
+[2023-06-01 14:22:49] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:49] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:49] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:49] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:49] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:49] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:49] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:49] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:49] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:49] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:49] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:49] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei
+[2023-06-01 14:22:49] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:49] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:49] [LINHA 15] 
+[2023-06-01 14:22:49] [RECURSO] /favicon.ico
+[2023-06-01 14:22:58] [LINHA 1] GET /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei HTTP/1.1
+[2023-06-01 14:22:58] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:58] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:58] [LINHA 4] Cache-Control: max-age=0
+[2023-06-01 14:22:58] [LINHA 5] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:58] [LINHA 6] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:58] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:58] [LINHA 8] Upgrade-Insecure-Requests: 1
+[2023-06-01 14:22:58] [LINHA 9] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:58] [LINHA 10] Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+[2023-06-01 14:22:58] [LINHA 11] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:58] [LINHA 12] Sec-Fetch-Mode: navigate
+[2023-06-01 14:22:58] [LINHA 13] Sec-Fetch-User: ?1
+[2023-06-01 14:22:58] [LINHA 14] Sec-Fetch-Dest: document
+[2023-06-01 14:22:58] [LINHA 15] Referer: http://localhost:8080/reserva.html?id=2
+[2023-06-01 14:22:58] [LINHA 16] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:58] [LINHA 17] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:58] [LINHA 18] 
+[2023-06-01 14:22:58] [RECURSO] /index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei
+[2023-06-01 14:22:58] [LUGAR JÁ ESTÁ RESERVADO]  Lugar{id=2, reserva='sei+la', dataReserva='1-6-2023 14:22', ipReserva='/[0:0:0:0:0:0:0:1]:52745'}
+[2023-06-01 14:22:58] [LINHA 1] GET /favicon.ico HTTP/1.1
+[2023-06-01 14:22:58] [LINHA 2] Host: localhost:8080
+[2023-06-01 14:22:58] [LINHA 3] Connection: keep-alive
+[2023-06-01 14:22:58] [LINHA 4] sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+[2023-06-01 14:22:58] [LINHA 5] sec-ch-ua-mobile: ?0
+[2023-06-01 14:22:58] [LINHA 6] User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+[2023-06-01 14:22:58] [LINHA 7] sec-ch-ua-platform: "Windows"
+[2023-06-01 14:22:58] [LINHA 8] Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+[2023-06-01 14:22:58] [LINHA 9] Sec-Fetch-Site: same-origin
+[2023-06-01 14:22:58] [LINHA 10] Sec-Fetch-Mode: no-cors
+[2023-06-01 14:22:58] [LINHA 11] Sec-Fetch-Dest: image
+[2023-06-01 14:22:58] [LINHA 12] Referer: http://localhost:8080/index.html?dataReserva=1-6-2023+14X22&id=2&reserva=nao+sei
+[2023-06-01 14:22:58] [LINHA 13] Accept-Encoding: gzip, deflate, br
+[2023-06-01 14:22:58] [LINHA 14] Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+[2023-06-01 14:22:58] [LINHA 15] 
+[2023-06-01 14:22:58] [RECURSO] /favicon.ico
